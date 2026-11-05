@@ -19,6 +19,8 @@
   </tr>
 </table>
 
+<br /><br />
+
 <img src="https://skillicons.dev/icons?i=ubuntu,linux,git,vscode,bash&theme=dark" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nahilwl&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" />
