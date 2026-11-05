@@ -4,7 +4,24 @@
 
 **Student** · Mostly C and Python · Into security & reverse engineering
 
+</div>
+
 <br />
+
+### About
+
+I like understanding how things work under the machine: memory, binaries, systems.
+Most of my work is in C and Python, from low-level projects to small tools and scripts.
+
+### Now
+
+- Learning reverse engineering and binary analysis
+- Getting deeper into Linux internals and systems programming
+- Writing small security-oriented tools
+
+<br />
+
+<div align="center">
 
 <table>
   <tr>
@@ -19,11 +36,19 @@
   </tr>
 </table>
 
-<br /><br />
+<p>
+  <sub><b>Environment</b></sub><br /><br />
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,git,vscode,bash&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=ubuntu,linux,git,vscode,bash&theme=dark" />
+<br />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nahilwl&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" />
-<img height="165" src="https://streak-stats.demolab.com?user=nahilwl&hide_border=true&theme=tokyonight" />
+<p>
+  <img height="160" src="https://streak-stats.demolab.com?user=nahilwl&hide_border=true&theme=tokyonight" />
+</p>
+
+<br />
+
+<sub>Open to internships · Reach me via GitHub issues or <a href="mailto:nahil.arevalo@epitech.eu">email</a></sub>
 
 </div>
