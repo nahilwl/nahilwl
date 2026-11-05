@@ -21,8 +21,6 @@
 
 <img src="https://skillicons.dev/icons?i=ubuntu,linux,git,vscode,bash&theme=dark" />
 
-<br /><br />
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nahilwl&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" />
 <img height="165" src="https://streak-stats.demolab.com?user=nahilwl&hide_border=true&theme=tokyonight" />
 
